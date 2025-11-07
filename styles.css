@@ -33,7 +33,7 @@ button{
 
 /* Hero Section */
 .hero {
-  background: url('/portfolio.jpg') no-repeat center center/cover;
+  background: url('./portfolio.jpg') no-repeat center center/cover;
   height: 100%;
   color: #fff;
   padding: 100px 0;
